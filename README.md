@@ -1,5 +1,5 @@
 
-References: https://programmingtechie.com/2021/01/06/spring-data-mongodb-tutorial/
+Reference: https://programmingtechie.com/2021/01/06/spring-data-mongodb-tutorial/
 
 Tools & environments:
 + JDK 11
