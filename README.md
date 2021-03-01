@@ -15,3 +15,7 @@ How to run:
 How to test api:
 + Use postman
 + Use Swagger ui 
+
+Technologies:
++ Spring boot
++ Mongodb
