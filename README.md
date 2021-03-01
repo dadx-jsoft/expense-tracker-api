@@ -1,11 +1,11 @@
 
 References: https://programmingtechie.com/2021/01/06/spring-data-mongodb-tutorial/
 
-Environment:
+Tools & environments:
 + JDK 11
 + Eclipse
 + Mongodb client
-+ Post man
++ Postman
 
 How to run:
 + Download zip or clone this project and import to your favorite ide
